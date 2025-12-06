@@ -106,7 +106,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Your Name - [@yourusername](https://github.com/jawad2005-mj)
+Your Name - [@jawad2005-mj](https://github.com/jawad2005-mj)
 
 ## 🙏 Acknowledgments
 
@@ -117,4 +117,5 @@ Your Name - [@yourusername](https://github.com/jawad2005-mj)
 ---
 
 ⭐ Star this repo if you find it helpful!
+
 
